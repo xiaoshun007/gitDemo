@@ -22,5 +22,6 @@ public class welcome {
 		w.setStr("123");
 		
 		Welcome w1 = new Welcome();
+		w1.setStr("456");
 	}
 }
