@@ -20,5 +20,7 @@ public class welcome {
 		w.getStr();
 		
 		w.setStr("123");
+		
+		Welcome w1 = new Welcome();
 	}
 }
