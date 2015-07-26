@@ -5,6 +5,10 @@ public class welcome {
 		this.str = str;
 	}
 	
+	public getStr() {
+		return this.str;
+	}
+	
 	public static void main(Sring[] args) {
 		system.out.println("hello world!");
 	}
