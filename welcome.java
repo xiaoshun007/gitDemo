@@ -21,6 +21,6 @@ public class welcome {
 		
 		w.setStr("123");
 		
-		Welcome w2 = new Welcome();
+		Welcome w1 = new Welcome();
 	}
 }
